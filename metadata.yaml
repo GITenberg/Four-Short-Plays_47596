@@ -1,10 +1,16 @@
 _repo: Four-Short-Plays_47596
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47596-h/images/cover.jpg
 creator:
   author:
     agent_name: Olliffe, (AKA Lady Bell) Florence Eveleen Eleanore
     gutenberg_agent_id: '44386'
     url: http://www.gutenberg.org/2009/agents/44386
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47596#Four-Short-Plays
 gutenberg_issued: '2014-12-08'
 gutenberg_type: Text
 identifiers:
